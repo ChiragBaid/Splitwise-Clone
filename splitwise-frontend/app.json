@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "splitwise-frontend",
+    "slug": "splitwise-frontend",
+    "version": "1.0.0",
+    "plugins": [
+      "expo-secure-store"
+    ]
+  }
+}
