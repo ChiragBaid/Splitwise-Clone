@@ -591,4 +591,4 @@ For support and questions:
 
 ---
 
-**Happy expense splitting! 💰** 
+**Happy expense splitting! 💰**
